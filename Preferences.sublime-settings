@@ -1,0 +1,11 @@
+{
+    // Authorization properties
+    "jira_auth_url": "https://jira.host/rest/auth/1/session",
+    "jira_auth_username": "username",
+    "jira_auth_password": "password",
+
+    // Default issue properties
+    "jira_issue_creation_url": "https://jira.host/rest/api/2/issue",
+    "jira_issue_assignee": "username",
+    "jira_issue_component": "100500"
+}

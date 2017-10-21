@@ -1,0 +1,9 @@
+[
+	{
+		"keys": ["ctrl+super+b"],
+		"command": "create_jira_issue",
+		"args": {
+			"project": "100500", "issuetype": "1"
+		} 
+	}
+]
